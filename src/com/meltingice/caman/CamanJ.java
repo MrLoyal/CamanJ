@@ -32,6 +32,10 @@ public class CamanJ {
 	 */
 	private Image image;
 
+	public Image getImage(){
+		return image;
+	}
+
 	/**
 	 * The render queue of filters
 	 */
